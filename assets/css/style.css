@@ -975,3 +975,31 @@ button:hover i::after {
     transition-delay: 0.2s;
 }
 /* End Of Our Product */
+/* Contact Us */
+.wrapper-contact .section-contact {
+    transition: 1s;
+    letter-spacing: 2px;
+    color: #fff;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: .5px;
+    margin-bottom: 60px;
+    margin-top: 20px;
+}
+.wrapper-contact .section-contact:hover {
+    transform: translateY(-20%);
+    color: yellow;
+}
+.wrapper-contact .main-contact {
+    color: rgba(255, 255, 255, 0.7);
+}
+.wrapper-contact .contact-sosmed {
+    display: flex;
+    justify-content: center;
+}
+.contact-sosmed .sosmed-logo {
+    margin: 0 8px;
+}
+.copyright {
+    color: rgba(255, 255, 255, 0.7) ;
+}
+/* End Of Contact Us */
