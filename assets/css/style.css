@@ -1000,6 +1000,7 @@ button:hover i::after {
     margin: 0 8px;
 }
 .copyright {
+    margin-top: 10px;
     color: rgba(255, 255, 255, 0.7) ;
 }
 /* End Of Contact Us */
