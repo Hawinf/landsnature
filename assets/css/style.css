@@ -876,7 +876,8 @@ button:hover i::after {
     width: 60%;
     height: 100%;
     top: 0%;
-    left: -125%;
+    left: -225%;
+    /* left: -125%; */
     transform: skew(45deg);
     position: absolute;
     animation-direction: left;
